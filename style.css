@@ -1,0 +1,20 @@
+
+
+.container{
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    position: relative;
+    
+}
+
+.same{
+    
+
+    width: 100vh;
+    height: 10vh;
+    background:greenyellow;
+    
+    
+    padding: 10px;
+}
